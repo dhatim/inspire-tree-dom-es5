@@ -1,0 +1,18 @@
+{
+  "name": "inspire-tree-dom-es5",
+  "homepage": "https://github.com/dhatim/inspire-tree-dom-es5",
+  "authors": [
+    "sebdhatim <scabel@dhatim.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
